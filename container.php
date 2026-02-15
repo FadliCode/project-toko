@@ -56,5 +56,5 @@
     } else {
         include "pages/dashboard.php";
     }
-    ?>
+    ?>  
 </div>
