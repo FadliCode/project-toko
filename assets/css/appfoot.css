@@ -1,0 +1,13 @@
+body.modal-open footer,
+body.modal-open .footer {
+    display: none !important;
+}
+body.modal-open .app-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1050;
+}
+body.modal-open .app-footer .footer {
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+}

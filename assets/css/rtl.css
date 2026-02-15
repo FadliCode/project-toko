@@ -1,0 +1,7 @@
+[dir="rtl"] .modal-dialog {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+[dir="rtl"] .modal-dialog-centered {
+    justify-content: center !important;
+}
