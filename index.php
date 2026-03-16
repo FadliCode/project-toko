@@ -13,7 +13,7 @@ if (!isset($_SESSION['id_user'])) {
 <head>
 
     <meta charset="utf-8" />
-    <title>fadlicode - Toko Bangunan</title>
+    <title>fadlicode - Toko Alat</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesdesign" name="author" />
@@ -176,6 +176,7 @@ if (!isset($_SESSION['id_user'])) {
                                         </div>
                                     </div>
                                 </a>
+                                <! ---- search bar ----->
                                 <a href="" class="text-reset notification-item">
                                     <div class="d-flex">
                                         <div class="avatar-xs me-3">

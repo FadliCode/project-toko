@@ -31,8 +31,8 @@ $total_keluar = mysqli_fetch_assoc(mysqli_query($koneksi, "
         <div class="col-sm-6 col-lg-3">
             <div class="card text-center">
                 <div class="card-body">
-                    <h4 class="card-title text-muted">Total Barang</h4>
-                     <h3 class="default">
+                    <h4 class="card-title text-muted">Total Kotak</h4>
+                    <h3 class="default">
                         <?= $total_barang ?? 0 ?>
                 </div>
             </div>
@@ -42,7 +42,7 @@ $total_keluar = mysqli_fetch_assoc(mysqli_query($koneksi, "
         <div class="col-sm-6 col-lg-3">
             <div class="card shadow border-0">
                 <div class="card-body text-center">
-                    <h4 class="card-title text-muted">Total Stok</h4>
+                    <h4 class="card-title text-muted">Total Irfad</h4>
                     <h3 class="text-success">
                         <?= $total_stok ?? 0 ?>
                     </h3>
