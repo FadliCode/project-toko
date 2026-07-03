@@ -13,7 +13,7 @@ if (!isset($_SESSION['id_user'])) {
 <head>
 
     <meta charset="utf-8" />
-    <title>fadlicode - Toko Alat</title>
+    <title>fadlicode - Toko Bangunan</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesdesign" name="author" />
@@ -168,45 +168,46 @@ if (!isset($_SESSION['id_user'])) {
                                         <img src="assets/images/users/avatar-3.jpg"
                                             class="me-3 rounded-circle avatar-xs" alt="user-pic">
                                         <div class="flex-1">
-                                            <h6 class="mb-1">James Lemire</h6>
+                                            <h6 class="mb-1">Nopal Hamid</h6>
                                             <div class="font-size-12 text-muted">
-                                                <p class="mb-1">It will seem like simplified English.</p>
+                                                <p class="mb-1">Bg Semen dah masuk BLOMM??.</p>
                                                 <p class="mb-0"><i class="mdi mdi-clock-outline"></i> 1 hours ago</p>
                                             </div>
                                         </div>
                                     </div>
                                 </a>
                                 <! ---- search bar ----->
-                                <a href="" class="text-reset notification-item">
-                                    <div class="d-flex">
-                                        <div class="avatar-xs me-3">
-                                            <span class="avatar-title bg-success rounded-circle font-size-16">
-                                                <i class="ri-checkbox-circle-line"></i>
-                                            </span>
-                                        </div>
-                                        <div class="flex-1">
-                                            <h6 class="mb-1">Your item is shipped</h6>
-                                            <div class="font-size-12 text-muted">
-                                                <p class="mb-1">If several languages coalesce the grammar</p>
-                                                <p class="mb-0"><i class="mdi mdi-clock-outline"></i> 3 min ago</p>
+                                    <a href="" class="text-reset notification-item">
+                                        <div class="d-flex">
+                                            <div class="avatar-xs me-3">
+                                                <span class="avatar-title bg-success rounded-circle font-size-16">
+                                                    <i class="ri-checkbox-circle-line"></i>
+                                                </span>
+                                            </div>
+                                            <div class="flex-1">
+                                                <h6 class="mb-1">Your item is shipped</h6>
+                                                <div class="font-size-12 text-muted">
+                                                    <p class="mb-1">If several languages coalesce the grammar</p>
+                                                    <p class="mb-0"><i class="mdi mdi-clock-outline"></i> 3 min ago</p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </a>
+                                    </a>
 
-                                <a href="" class="text-reset notification-item">
-                                    <div class="d-flex">
-                                        <img src="assets/images/users/avatar-4.jpg"
-                                            class="me-3 rounded-circle avatar-xs" alt="user-pic">
-                                        <div class="flex-1">
-                                            <h6 class="mb-1">Salena Layfield</h6>
-                                            <div class="font-size-12 text-muted">
-                                                <p class="mb-1">As a skeptical Cambridge friend of mine occidental.</p>
-                                                <p class="mb-0"><i class="mdi mdi-clock-outline"></i> 1 hours ago</p>
+                                    <a href="" class="text-reset notification-item">
+                                        <div class="d-flex">
+                                            <img src="assets/images/users/avatar-4.jpg"
+                                                class="me-3 rounded-circle avatar-xs" alt="user-pic">
+                                            <div class="flex-1">
+                                                <h6 class="mb-1">Eci</h6>
+                                                <div class="font-size-12 text-muted">
+                                                    <p class="mb-1">Abangg, mano besi akuu??.</p>
+                                                    <p class="mb-0"><i class="mdi mdi-clock-outline"></i> 1 hours ago
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </a>
+                                    </a>
                             </div>
                             <div class="p-2 border-top">
                                 <div class="d-grid">
@@ -275,7 +276,7 @@ if (!isset($_SESSION['id_user'])) {
                 <div class="container-fluid">
 
                     <!-- start page title -->
-                    
+
                     <!-- end page title -->
 
                 </div> <!-- container-fluid -->
